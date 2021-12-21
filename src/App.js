@@ -6,7 +6,7 @@ import { Button } from 'antd';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/filtering-pagination-practice">
       <div style={{ display: 'flex', justifyContent: 'space-evenly', padding: '1rem'}}>
         <Button type="primary" size={'large'}>
           <Link to="pagination">Pagination Example</Link>
