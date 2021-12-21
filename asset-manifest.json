@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filtering-pagination-practice/static/css/main.2ae9a3a7.css",
+    "main.js": "/filtering-pagination-practice/static/js/main.f504972b.js",
+    "static/js/787.26f43621.chunk.js": "/filtering-pagination-practice/static/js/787.26f43621.chunk.js",
+    "index.html": "/filtering-pagination-practice/index.html",
+    "main.2ae9a3a7.css.map": "/filtering-pagination-practice/static/css/main.2ae9a3a7.css.map",
+    "main.f504972b.js.map": "/filtering-pagination-practice/static/js/main.f504972b.js.map",
+    "787.26f43621.chunk.js.map": "/filtering-pagination-practice/static/js/787.26f43621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ae9a3a7.css",
+    "static/js/main.f504972b.js"
+  ]
+}
